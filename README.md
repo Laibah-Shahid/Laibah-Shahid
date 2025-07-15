@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👩‍💻 About Me<br><br>Hi! I'm **Laibah Shahid**, a passionate **Full Stack Developer** with a focus on creating clean, responsive, and efficient web applications.<br><br>🎓 Currently pursuing my Bachelor's in **Computer Science & IT** at **NED University of Engineering & Technology (NEDUET)**.  <br>💻 Skilled in technologies like **HTML, CSS, JavaScript, Typescript, React,**, and more.  <br>🌱 Always eager to learn new tools, frameworks, and best practices in development.  <br>🚀 I enjoy turning ideas into real, functional products — one line of code at a time.
+<br>Hi! I'm **Laibah Shahid**, a passionate **Full Stack Developer** with a focus on creating clean, responsive, and efficient web applications.<br><br>🎓 Currently pursuing my Bachelor's in **Computer Science & IT** at **NED University of Engineering & Technology (NEDUET)**.  <br>💻 Skilled in technologies like **HTML, CSS, JavaScript, Typescript, React,**, and more.  <br>🌱 Always eager to learn new tools, frameworks, and best practices in development.  <br>🚀 I enjoy turning ideas into real, functional products — one line of code at a time.
 
 
 ## 🌐 Socials:
